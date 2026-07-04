@@ -1,4 +1,7 @@
 Time Series Forecasting using XGBoost with Lag Features, Rolling Mean Features, Feature Engineering, and Streamlit Deployment.
+## 🌐 Live Demo
+
+**Streamlit App:** https://walmart-sales-forecasting-xgboost-hwuf5ung2icvwyyk7fdkb5.streamlit.app/
 # 📈 Walmart Weekly Sales Forecasting using XGBoost
 
 A Machine Learning Time Series Forecasting project that predicts Walmart weekly sales using historical sales data, store information, economic indicators, and feature engineering techniques such as Lag Features and Rolling Mean Features.
